@@ -1,0 +1,10 @@
+mlflow>=3.1,<4
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+xgboost>=2.0
+hyperopt>=0.2.7
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+requests>=2.31
