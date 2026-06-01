@@ -1,8 +1,5 @@
 # Fraud Detection — ML Lifecycle Management with MLflow
 
-AIN-3009 MLOps term project. An end-to-end machine-learning lifecycle for
-**credit-card fraud detection**, managed with MLflow: experiment tracking,
-model training and tuning, deployment, monitoring, and a model registry.
 
 ## Why fraud detection
 The dataset is extremely imbalanced (~0.2% frauds), which makes every MLOps
@@ -93,6 +90,3 @@ and *tags*. This project implements the same lifecycle using aliases —
 `@staging` for a version under validation and `@champion` for the promoted
 production version — which is the current recommended approach.
 
-## Submission
-Zip the project as `PRJ-yourname-number.zip` per the assignment guidelines.
-Code follows PEP 8 (`black` / `flake8` clean).
